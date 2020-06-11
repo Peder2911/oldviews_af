@@ -1,0 +1,10 @@
+venv/
+
+*.swp
+__pycache__/
+*.py[cod]
+
+data/*
+!data/manifest
+out/*
+!out/.gitkeep
